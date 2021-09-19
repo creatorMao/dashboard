@@ -1,4 +1,5 @@
 # dashboard
+一个专为手机屏幕大小设计的dashboard！
 
 ## Project setup
 ```
