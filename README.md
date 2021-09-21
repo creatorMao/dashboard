@@ -1,5 +1,5 @@
 # dashboard
-一个专为手机屏幕大小设计的dashboard！
+一个专为墨水屏幕大小设计的dashboard！
 
 ## Project setup
 ```
@@ -23,3 +23,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# THANKS
+- [字体-pointy_demo.ttf](https://www.dafont.com/pointy.font)
+
+- [手绘样式-rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements)
